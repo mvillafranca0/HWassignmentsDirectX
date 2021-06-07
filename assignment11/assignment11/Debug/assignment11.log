@@ -1,0 +1,14 @@
+﻿  game.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(25,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(25,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(51,41): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(52,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(53,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(54,45): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(71,45): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(146,57): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(201,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(205,75): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\assignment11\game.cpp(205,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  assignment11.vcxproj -> C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment11\Debug\assignment11.exe
