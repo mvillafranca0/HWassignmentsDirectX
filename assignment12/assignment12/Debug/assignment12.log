@@ -1,0 +1,6 @@
+﻿  game.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment12\assignment12\game.cpp(31,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment12\assignment12\game.cpp(52,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment12\assignment12\game.cpp(53,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  assignment12.vcxproj -> C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment12\Debug\assignment12.exe
