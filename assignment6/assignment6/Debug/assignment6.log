@@ -1,0 +1,5 @@
+﻿  myGame.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment6\assignment6\myGame.cpp(303,13): warning C4101: 'result': unreferenced local variable
+C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment6\assignment6\myGame.cpp(302,20): warning C4101: 'info': unreferenced local variable
+  assignment6.vcxproj -> C:\Users\SikTe\OneDrive\Desktop\CPGameProg\assignment6\Debug\assignment6.exe
